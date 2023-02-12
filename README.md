@@ -6,6 +6,4 @@ In his famous article of 2007, Howard Wainer writes about very dangerous equatio
 
 The equation he talks about is Moivre’s equation:
 
-$
-SE = \dfrac{\sigma}{\sqrt{n}} 
-$
+$SE = \dfrac{\sigma}{\sqrt{n}}$
