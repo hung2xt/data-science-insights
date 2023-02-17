@@ -1,4 +1,4 @@
-# Hypotheses Test
+# Hypotheses Testing
 
 Some equations  are  dangerous  if you  know them, and others are dangerous if you do not. The first category may  pose  danger  because the secrets  within its bounds open  doors  behind which lies terrible peril. I am interested in equations that unleash their danger not when we know about them, but rather when we do not.
 
